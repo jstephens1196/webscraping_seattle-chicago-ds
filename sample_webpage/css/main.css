@@ -5,13 +5,13 @@ p {
 
 #first_p {
 
-    color: red;
+    color: blue;
 
 }
 
 .not_first_p {
 
-    color: green;
+    color: magenta;
 }
 
 #fourth_p {
